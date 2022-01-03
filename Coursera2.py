@@ -6,16 +6,16 @@ if len(name) < 1:
 handle = open(name)
 
 x = dict()
-l = []
+lst = []
 
 for lines in handle :
     if lines.startswith('From ') :
         words = lines.split()
         time = words[5]
         date = time.split(':')
-	l.append(date[0])
+	lst.append(date[0])
 
-for counts in l :
+for counts in lst :
     x[counts] = x.get(counts,0) + 1
 
 
