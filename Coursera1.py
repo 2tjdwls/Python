@@ -1,3 +1,4 @@
+# Coursera Exercise
 name = input("Enter file:")
 if len(name) < 1:	# Enter만 누르면 file name을 'mbox-short.txt'로 해줌 (Default)
     name = "mbox-short.txt"

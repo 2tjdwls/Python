@@ -1,3 +1,4 @@
+# Coursera HW
 # E-mail Data에서 시간 Data 추적 후 각 '시간'별 E-mail 횟수 출력
 
 name = input("Enter file:")
