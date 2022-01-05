@@ -1,3 +1,4 @@
+#Python coding dojang practice
 try :
     x = int(input('나눌 숫자를 입력하세요: '))
     y = 10/x

@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 23 17:12:57 2021
-
-@author: tjdwl
-"""
-
+#Python coding dojang practice
 #%%
 a = ['But soft what light through yonder window breaks\n', 'It is the east and Juliet is the sun\n' , 'Arise fair sun and kill the envious moon\n', 'Who is already sick and pale with grief']
 lst = list()

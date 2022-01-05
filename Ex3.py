@@ -1,3 +1,4 @@
+#Python coding dojang practice
 #%%
 def trace(func) :
     def wrapper() :
