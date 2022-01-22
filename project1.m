@@ -67,6 +67,7 @@ for bw = 0 : 32 : 255
 disp(b1);
 b1=0;
 end
+
 for bw = 0 : 32 : 255
     for i = 1 : i2
         for j = 1 : j2
@@ -80,6 +81,7 @@ for bw = 0 : 32 : 255
 disp(b2);
 b2=0;
 end
+
 for bw = 0 : 32 : 255
     for i = 1 : i3
         for j = 1 : j3
@@ -107,6 +109,7 @@ for bw = 0 : 32 : 255
 disp(b4);
 b4=0;
 end
+
 for bw = 0 : 32 : 255
     for i = 1 : i5
         for j = 1 : j5
