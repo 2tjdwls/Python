@@ -1,4 +1,4 @@
-% 문제 생략
+% 자판기 프로그래밍 (matlab)
 clear all;
 
 cost = 0;
